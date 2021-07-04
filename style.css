@@ -58,3 +58,24 @@ a {
 h2 {
   padding: 15px;
 }
+.experience-section {
+  background: url("imgs/experience-bg.jpg") no-repeat;
+  background-size: cover;
+}
+.experience-headder {
+  text-align: center;
+}
+.experience-main {
+  display: flex;
+  color: deepskyblue;
+  text-align: left;
+}
+.dev {
+  width: 40%;
+  margin-left: 8%;
+  border-left: 8px solid green;
+  border-radius: 5px;
+}
+.dev h3 {
+  color: yellow;
+}
