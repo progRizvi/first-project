@@ -38,9 +38,23 @@ a {
 .left-hero-section {
   padding: 50px;
 }
-.right-hero-section img {
+.half-img img {
   width: 60%;
   margin-top: 20px;
   margin-left: 50px;
   border-radius: 5px;
+}
+.dream-section {
+  background: url("imgs/dream-bg.jpg");
+  display: flex;
+  padding: 20px 0;
+}
+.dream-img {
+  margin-left: 80px;
+}
+.dream-right-section {
+  padding-top: 30px;
+}
+h2 {
+  padding: 15px;
 }
