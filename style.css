@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+.hero-section {
+  background: url("imgs/hero-bg.jpg") no-repeat;
+  display: flex;
+}
+.color {
+  color: #ffb95d;
+}
+h1 {
+  font-size: 50px;
+  padding: 15px;
+}
+h3 {
+  font-weight: 700;
+  padding: 15px;
+}
+p {
+  color: #fff;
+  text-align: justify;
+  padding: 15px;
+}
+a {
+  text-decoration: none;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 5px 20px;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+.left-hero-section {
+  padding: 50px;
+}
+.right-hero-section img {
+  width: 60%;
+  margin-top: 20px;
+  margin-left: 50px;
+  border-radius: 5px;
+}
